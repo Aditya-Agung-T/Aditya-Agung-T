@@ -1,21 +1,20 @@
-<!-- Animated Text Banner (alternative: shields-io badge for simple animated look) -->
+<!-- Simple Static Banner (dark blue/teal: #003840 background, white text) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi%20there!%20I'm%20Aditya%20Agung%20👋--65C5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=2c5364&color=65C5FF&label=Backend%20%7C%20DevOps%20%7C%20Cloud%20Enthusiast" alt="Animated Text Banner"/>
+  <img src="https://img.shields.io/badge/Welcome!-Cyber Security Engineer%20%7C%20%20%7C%20Machine%20Learning%20Enthusiast-003840?style=for-the-badge&logo=github&logoColor=white&color=003840&labelColor=003840" alt="Welcome Banner"/>
 </p>
 
-<!-- Static Welcome Message as fallback -->
 <p align="center">
-  <b><i>Backend | DevOps | Open Source Enthusiast<br>
-  Let's build something awesome!</i></b>
+  <b><i>Cyber Security Engineer & Machine Learning Enthusiast<br>
+  Let's build something awesome!💡</i></b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💡 **Backend Engineer & Cloud Enthusiast**
-- 🌱 Currently exploring: **Cloud Computing | DevOps | Distributed Systems**
-- 🛠️ Favorite stack: **Golang, Node.js, Python, Docker, Kubernetes**
+- 💡 **Cyber Security Engineer & Machine Learning Enthusiast**
+- 🌱 Currently exploring: **Cloud Computing | Cyber Security Engineering | Machine Learning**
+- 🛠️ Favorite stack: **Python, Linux, AWS, Google Cloud, Google Colab, Machine Learning**
 - 🤝 Open source contributor & lifelong learner
 - 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/aditya-agung/) ・ [Email](mailto:your.email@example.com)
 - 🎯 Motto: _Keep learning, keep building!_
@@ -25,7 +24,9 @@
 ## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,python,docker,kubernetes,postgres,mysql,redis,aws,gcp,linux,githubactions,git" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=linux,python,aws,gcp" alt="Linux, Python, AWS, Google Cloud"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-22272E?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-003840?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
 </p>
 
 ---
@@ -55,10 +56,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-agung" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-003840?style=for-the-badge&logo=linkedin&logoColor=00CFFF"/>
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-003840?style=for-the-badge&logo=gmail&logoColor=FF7043"/>
   </a>
 </p>
 
