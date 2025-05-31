@@ -55,10 +55,10 @@
 ## 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/aditya-agung" target="_blank">
+  <a href="https://linkedin.com/in/aditya-agung-t" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-003840?style=for-the-badge&logo=linkedin&logoColor=00CFFF"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:alfasted23@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-003840?style=for-the-badge&logo=gmail&logoColor=FF7043"/>
   </a>
 </p>
