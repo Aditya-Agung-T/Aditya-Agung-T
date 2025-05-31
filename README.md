@@ -16,7 +16,7 @@
 - 🌱 Currently exploring: **Cloud Computing | Cyber Security Engineering | Machine Learning**
 - 🛠️ Favorite stack: **Python, Linux, AWS, Google Cloud, Google Colab, Machine Learning**
 - 🤝 Open source contributor & lifelong learner
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/aditya-agung-t/) ・ [Email](emailto:alfasted23@gmail.com)
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/aditya-agung-t/) ・ [Email](mailto:alfasted23@gmail.com)
 - 🎯 Motto: _Keep learning, keep building!_
 
 ---
