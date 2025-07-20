@@ -25,7 +25,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔐 **Cyber Security Engineer** with a passion for **Machine Learning** and **Cloud Computing**. I specialize in building secure, scalable solutions that leverage cutting-edge technologies to solve real-world problems.
+🔐 **Cyber Security Engineer** with a passion for **Machine Learning**, **Cloud Computing** and **Web Developer**. I specialize in building secure, scalable solutions that leverage cutting-edge technologies to solve real-world problems.
 
 ### 🎯 Core Competencies
 - **🛡️ Cyber Security**: Penetration Testing, Security Auditing, Incident Response
